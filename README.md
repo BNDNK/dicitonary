@@ -20,8 +20,8 @@ Dependencies
 ## ScreenShot
 
 
+<img width="1436" alt="Screenshot 2024-02-17 at 9 31 36 AM" src="https://github.com/BNDNK/dicitonary/assets/112815598/b2eed9fb-a30b-4aed-a62c-bcce3ca1bf35">
 
-<img width="1436" alt="weather screenshot" src="[https://drive.google.com/file/d/16O6mTW0uWL3UKw1J-DuyTHgOf8vwvAsn/view?usp=drive_link](https://drive.google.com/file/d/16O6mTW0uWL3UKw1J-DuyTHgOf8vwvAsn/view?usp=sharing)">
 
 
 ## Code Overview
