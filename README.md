@@ -19,8 +19,9 @@ Dependencies
 
 ## ScreenShot
 
-https://drive.google.com/file/d/16O6mTW0uWL3UKw1J-DuyTHgOf8vwvAsn/view?usp=drive_link
 
+
+<img width="1436" alt="weather screenshot" src="[https://github.com/BNDNK/myproject/assets/112815598/67336d5c-c6a4-41a7-9bd4-843e1b916525"](https://drive.google.com/file/d/16O6mTW0uWL3UKw1J-DuyTHgOf8vwvAsn/view?usp=drive_link)>
 
 
 ## Code Overview
