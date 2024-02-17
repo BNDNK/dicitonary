@@ -15,7 +15,13 @@ Pronunciation: Users can listen to the pronunciation of the searched word.
 Error Handling: The application handles errors gracefully and displays an error message if the word is not found.
 Dependencies
 
-##FontAwesome: FontAwesome icons are used for the volume icon button.
+## FontAwesome: FontAwesome icons are used for the volume icon button.
+
+## ScreenShot
+
+https://drive.google.com/file/d/16O6mTW0uWL3UKw1J-DuyTHgOf8vwvAsn/view?usp=drive_link
+
+
 
 ## Code Overview
 The app makes use of the Dictionary API to fetch word definitions and pronunciations.
