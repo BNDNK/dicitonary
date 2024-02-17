@@ -15,7 +15,8 @@ Pronunciation: Users can listen to the pronunciation of the searched word.
 Error Handling: The application handles errors gracefully and displays an error message if the word is not found.
 Dependencies
 
-## FontAwesome: FontAwesome icons are used for the volume icon button.
+## FontAwesome: 
+FontAwesome icons are used for the volume icon button.
 
 ## ScreenShot
 
